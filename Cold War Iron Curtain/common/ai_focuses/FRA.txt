@@ -1,5 +1,13 @@
 ai_historical_focus_list_FRA = {
 	ai_national_focuses = {
+		FRA_indoc_one
+		FRA_create_svie
+		FRA_send_tassigny
+		FRA_extend_welfare
+		FRA_hanoi_forts
+		FRA_send_salan
+		FRA_indo_bigpush
+		FRA_geneva_conf
 		FRA_reconstruction
 		FRA_reb_infra
 		FRA_ration
@@ -13,14 +21,6 @@ ai_historical_focus_list_FRA = {
 		FRA_truth_rec
 		FRA_reb_mil
 		FRA_demo_one
-		FRA_indoc_one
-		FRA_create_svie
-		FRA_send_tassigny
-		FRA_extend_welfare
-		FRA_hanoi_forts
-		FRA_send_salan
-		FRA_indo_bigpush
-		FRA_geneva_conf
 		FRA_the_new_army
 		FRA_navy
 		FRA_develop_toulon
