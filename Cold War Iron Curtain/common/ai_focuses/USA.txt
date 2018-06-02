@@ -1,0 +1,19 @@
+ai_historical_focus_list_USA = {
+    ai_national_focuses = {
+               USA_the_marshall_plan1
+			   USA_housing_act_of_1949
+			   USA_Foreign_Affairs
+			   USA_Support_Israel
+			   USA_Korea
+			   USA_Militarize_South_Korea
+			   USA_Invest_in_the_South_Korean_Economy
+			   USA_Defend_the_South_Korean_Border
+			   USA_The_American_Army
+			   USA_Further_Deployment_in_Europe
+			   USA_Estabilish_US_European_Command
+			   USA_Mobilize_Against_the_USSR
+			   USA_Korean_War_Draft
+			   USA_The_MacArthur_Question
+			   
+        }
+}
